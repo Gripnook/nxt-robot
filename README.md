@@ -1,5 +1,5 @@
 # NXT Robot
-Code for controlling a robot designed for ECSE-211 Design Principles and Methods. The robot was designed to operate in a walled grid environment. The code uses extensive multi-threading to allow the robot to perform its tasks in parallel.
+An autonomous robot designed for ECSE-211 Design Principles and Methods. The robot was designed to operate in a walled grid environment. The code uses extensive multi-threading to allow the robot to perform its tasks in parallel.
 
 These tasks include:
 1. Localizing in its environment using ultrasonic and color sensors.
