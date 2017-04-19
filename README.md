@@ -1,6 +1,5 @@
 # NXT Robot
-An autonomous robot designed for ECSE-211 Design Principles and Methods.
-This project targeted the LEGO Mindstorms NXT device and the leJOS NXJ JVM.
+An autonomous robot designed for ECSE-211 Design Principles and Methods targeting the LEGO Mindstorms NXT device and the leJOS NXJ JVM.
 
 The code uses extensive multi-threading to allow the robot to perform its tasks in parallel. These tasks include:
 1. Localizing in its environment using ultrasonic and color sensors.
